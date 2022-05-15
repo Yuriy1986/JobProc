@@ -13,7 +13,7 @@ A job of 1000 images is going to be edited by a crew of 3 people:
 - P2: 1 image per 3 minutes
 - P3: 1 image per 4 minutes
 
-Count of pictures and people can be changed.
+Count of pictures and people can be changed. Using tasks, locks, cancellationTokens
 
   Result:
 - total time;
